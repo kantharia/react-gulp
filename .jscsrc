@@ -1,0 +1,9 @@
+{
+	"preset": "airbnb",
+	"requireTrailingComma": false,
+	"fileExtensions": [".js"],
+	"excludeFiles": [
+    "./index.html",
+    "node_modules/**"
+  ]
+}
